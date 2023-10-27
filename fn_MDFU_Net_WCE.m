@@ -1,5 +1,4 @@
-%%%%%%% MultiScale Dilated Features Upsampling Net (MDFU-Net) (No- augmentation)
-% this is the 2nd proposed net with Weighted Cross entropy loss function
+%%%%%%% MultiScale Dilated Features Upsampling Net (MDFU-Net) 
 
 %%%%%%%% 
 function [lgraph, ModelName] = fn_MDFU_Net_WCE(numClasses,classNames,inverseFrequency,params)
